@@ -1,0 +1,36 @@
+﻿@model MyMovieApp.Entity.ThetreModel
+@{
+    ViewData["Title"] = "AddThetre";
+}
+
+<h1>AddThetre</h1>
+
+<form method="post">
+    <div class="form-group">
+        <label class="form-label">Thetre Name</label>
+        <input type="text" class="form-control" asp-for="ThetreName">
+    </div>
+    <div class="form-group">
+        <label class="form-label">Thetre Location</label>
+        <input type="text" class="form-control" asp-for="ThetreLocation">
+    </div>
+    <div class="form-group">
+        <label class="form-label">Capacity</label>
+        <input type="text" class="form-control" asp-for="ThetreCapacity">
+    </div>
+    <button type="submit" class="btn btn-primary" value="Register">Register</button>"
+    <button type="reset"  class="btn btn-secondary">Clear Form</button>
+
+    @if (ViewBag.status == "Success")
+    {
+        <div class="alert alert-success">
+            @ViewBag.message
+        </div>
+    }
+    else
+    {
+        <div class="alert alert-danger">
+            @ViewBag.message
+        </div>
+    }
+</form>

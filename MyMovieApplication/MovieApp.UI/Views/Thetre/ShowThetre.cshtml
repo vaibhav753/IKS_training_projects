@@ -1,0 +1,56 @@
+﻿@model IEnumerable<MyMovieApp.Entity.ThetreModel>
+@{
+    ViewData["Title"] = "ShowThetre";
+}
+
+<h1>ShowThetre</h1>
+
+<table class="table table-dark table-striped">
+    <thead>
+        <tr>
+            <th>
+                Sr. No
+            </th>
+             <th>
+                Thetre Name
+            </th>
+             <th>
+                Thetre Location
+            </th>
+             <th>
+                Thetre Capacity
+            </th>
+            <th>
+                Action-1
+            </th>
+            <th>
+                Action-2
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var item in Model)
+        {
+            <tr>
+                <td>
+                    @item.ThetreId
+                </td>
+                <td>
+                    @item.ThetreName
+                </td>
+                <td>
+                    @item.ThetreLocation
+                </td>
+                <td>
+                    @item.ThetreCapacity
+                </td>
+                <td>
+                    <a asp-controller="Thetre" asp-action="UpdateThetre" asp-route-ThetreId="@item.ThetreId">Edit Thetre</a>
+                </td>
+                <td>
+                    <a asp-controller="Thetre" asp-action="DeleteThetreById" asp-route-TheterId="@item.ThetreId">delete Thetre</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

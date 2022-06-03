@@ -1,0 +1,129 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\IKS_Training\\IKS_Git\\Rushikesh-Telsinge\\SampleTeacher\\SampleProject.UI\\SampleProject.UI.csproj": {}
+  },
+  "projects": {
+    "D:\\IKS_Training\\IKS_Git\\Rushikesh-Telsinge\\SampleTeacher\\SampleProject.Entity\\SampleProject.Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\IKS_Training\\IKS_Git\\Rushikesh-Telsinge\\SampleTeacher\\SampleProject.Entity\\SampleProject.Entity.csproj",
+        "projectName": "SampleProject.Entity",
+        "projectPath": "D:\\IKS_Training\\IKS_Git\\Rushikesh-Telsinge\\SampleTeacher\\SampleProject.Entity\\SampleProject.Entity.csproj",
+        "packagesPath": "C:\\Users\\rushi\\.nuget\\packages\\",
+        "outputPath": "D:\\IKS_Training\\IKS_Git\\Rushikesh-Telsinge\\SampleTeacher\\SampleProject.Entity\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\rushi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\IKS_Training\\IKS_Git\\Rushikesh-Telsinge\\SampleTeacher\\SampleProject.UI\\SampleProject.UI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\IKS_Training\\IKS_Git\\Rushikesh-Telsinge\\SampleTeacher\\SampleProject.UI\\SampleProject.UI.csproj",
+        "projectName": "SampleProject.UI",
+        "projectPath": "D:\\IKS_Training\\IKS_Git\\Rushikesh-Telsinge\\SampleTeacher\\SampleProject.UI\\SampleProject.UI.csproj",
+        "packagesPath": "C:\\Users\\rushi\\.nuget\\packages\\",
+        "outputPath": "D:\\IKS_Training\\IKS_Git\\Rushikesh-Telsinge\\SampleTeacher\\SampleProject.UI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\rushi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\IKS_Training\\IKS_Git\\Rushikesh-Telsinge\\SampleTeacher\\SampleProject.Entity\\SampleProject.Entity.csproj": {
+                "projectPath": "D:\\IKS_Training\\IKS_Git\\Rushikesh-Telsinge\\SampleTeacher\\SampleProject.Entity\\SampleProject.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

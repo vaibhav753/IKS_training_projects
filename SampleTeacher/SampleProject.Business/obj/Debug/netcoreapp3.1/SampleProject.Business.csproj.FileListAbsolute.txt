@@ -1,0 +1,15 @@
+D:\IKS_Training\IKS_Git\Rushikesh-Telsinge\SampleTeacher\SampleProject.Business\bin\Debug\netcoreapp3.1\SampleProject.Business.deps.json
+D:\IKS_Training\IKS_Git\Rushikesh-Telsinge\SampleTeacher\SampleProject.Business\bin\Debug\netcoreapp3.1\SampleProject.Business.dll
+D:\IKS_Training\IKS_Git\Rushikesh-Telsinge\SampleTeacher\SampleProject.Business\bin\Debug\netcoreapp3.1\SampleProject.Business.pdb
+D:\IKS_Training\IKS_Git\Rushikesh-Telsinge\SampleTeacher\SampleProject.Business\bin\Debug\netcoreapp3.1\SampleProject.Data.dll
+D:\IKS_Training\IKS_Git\Rushikesh-Telsinge\SampleTeacher\SampleProject.Business\bin\Debug\netcoreapp3.1\SampleProject.Entity.dll
+D:\IKS_Training\IKS_Git\Rushikesh-Telsinge\SampleTeacher\SampleProject.Business\bin\Debug\netcoreapp3.1\SampleProject.Data.pdb
+D:\IKS_Training\IKS_Git\Rushikesh-Telsinge\SampleTeacher\SampleProject.Business\bin\Debug\netcoreapp3.1\SampleProject.Entity.pdb
+D:\IKS_Training\IKS_Git\Rushikesh-Telsinge\SampleTeacher\SampleProject.Business\obj\Debug\netcoreapp3.1\SampleProject.Business.csproj.AssemblyReference.cache
+D:\IKS_Training\IKS_Git\Rushikesh-Telsinge\SampleTeacher\SampleProject.Business\obj\Debug\netcoreapp3.1\SampleProject.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\IKS_Training\IKS_Git\Rushikesh-Telsinge\SampleTeacher\SampleProject.Business\obj\Debug\netcoreapp3.1\SampleProject.Business.AssemblyInfoInputs.cache
+D:\IKS_Training\IKS_Git\Rushikesh-Telsinge\SampleTeacher\SampleProject.Business\obj\Debug\netcoreapp3.1\SampleProject.Business.AssemblyInfo.cs
+D:\IKS_Training\IKS_Git\Rushikesh-Telsinge\SampleTeacher\SampleProject.Business\obj\Debug\netcoreapp3.1\SampleProject.Business.csproj.CoreCompileInputs.cache
+D:\IKS_Training\IKS_Git\Rushikesh-Telsinge\SampleTeacher\SampleProject.Business\obj\Debug\netcoreapp3.1\SampleProject.Business.csproj.CopyComplete
+D:\IKS_Training\IKS_Git\Rushikesh-Telsinge\SampleTeacher\SampleProject.Business\obj\Debug\netcoreapp3.1\SampleProject.Business.dll
+D:\IKS_Training\IKS_Git\Rushikesh-Telsinge\SampleTeacher\SampleProject.Business\obj\Debug\netcoreapp3.1\SampleProject.Business.pdb

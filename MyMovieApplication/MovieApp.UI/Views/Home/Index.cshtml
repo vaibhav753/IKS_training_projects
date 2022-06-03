@@ -1,0 +1,24 @@
+﻿
+@model IEnumerable<MyMovieApp.Entity.MovieModel>
+@{ ViewData["Title"] = "Home Page"; }
+
+<h1 style="color:red">Movies</h1>
+<div class="row row-cols-1 row-cols-md-3 g-4">
+    @foreach (var item in Model)
+    {
+<div class="col">
+    <div class="card h-100">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyNC0JQ2GZizXLo0CvtEIXWYT0m224UUB6lg&usqp=CAU" class="card-img-top" alt="...">
+        <div class="card-body">
+            <h5 class="card-title">@item.MovieTitle</h5>
+            <p class="card-text">@item.MovieType.</p>
+        </div>
+    </div>
+</div>}
+
+
+
+</div>
+<br />
+<br />
+<br />

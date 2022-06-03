@@ -1,0 +1,28 @@
+﻿@model MyMovieApp.Entity.ThetreModel
+@{
+    ViewData["Title"] = "UpdateThetre";
+}
+
+<hr />
+<h1>Welcome To Update Thetre Details Page</h1>
+<hr />
+<form method="post">
+    <div class="form-group">
+        <label class="form-label">Thetre Name</label>
+        <input type="text" class="form-control" asp-for="ThetreId">
+    </div>
+    <div class="form-group">
+        <label class="form-label">Thetre Name</label>
+        <input type="text" class="form-control" asp-for="ThetreName">
+    </div>
+    <div class="form-group">
+        <label class="form-label">Thetre Location</label>
+        <input type="text" class="form-control" asp-for="ThetreLocation">
+    </div>
+    <div class="form-group">
+        <label class="form-label">Capacity</label>
+        <input type="text" class="form-control" asp-for="ThetreCapacity">
+    </div>
+    <button type="submit" class="btn btn-primary" value="UpdateTheter">Update Thetre</button>"
+    <button type="reset"  class="btn btn-secondary">Clear Form</button>
+</form>

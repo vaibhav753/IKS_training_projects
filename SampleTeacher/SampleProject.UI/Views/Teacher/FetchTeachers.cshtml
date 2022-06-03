@@ -1,0 +1,50 @@
+﻿@model IEnumerable<SampleProject.Entity.Entity.TeacherModel>
+@{
+    ViewData["Title"] = "FetchTeachers";
+}
+
+<h1 align=centre>Teacher Details</h1>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>
+                Sr. No
+            </th>
+            <th>
+                Teacher Name
+            </th>
+            <th>
+              Teacher Salary
+            </th>
+            <th>
+                TotalStudents
+            </th>
+             <th>
+                Skills
+            </th>
+            <th>
+                AddedOn
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @{
+            foreach(var item in Model)
+            {
+                <tr>
+                    <td>
+                    @item.TeacherId
+                    </td>
+                    <td>
+                        @item.TeacherName
+                    </td>
+                    <td>@item.Salary</td>
+                    <td>@item.TotalStudents</td>
+                    <td>@item.Skills</td>
+                    <td>@item.AddedOn</td>
+                </tr>
+            }
+        }
+    </tbody>
+</table>

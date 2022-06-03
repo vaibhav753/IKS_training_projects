@@ -1,0 +1,16 @@
+D:\IKS_Training\IKS_Git\Rushikesh-Telsinge\SampleTeacher\SampleProject.Data\bin\Debug\netcoreapp3.1\SampleProject.Data.deps.json
+D:\IKS_Training\IKS_Git\Rushikesh-Telsinge\SampleTeacher\SampleProject.Data\bin\Debug\netcoreapp3.1\SampleProject.Data.runtimeconfig.json
+D:\IKS_Training\IKS_Git\Rushikesh-Telsinge\SampleTeacher\SampleProject.Data\bin\Debug\netcoreapp3.1\SampleProject.Data.runtimeconfig.dev.json
+D:\IKS_Training\IKS_Git\Rushikesh-Telsinge\SampleTeacher\SampleProject.Data\bin\Debug\netcoreapp3.1\SampleProject.Data.dll
+D:\IKS_Training\IKS_Git\Rushikesh-Telsinge\SampleTeacher\SampleProject.Data\bin\Debug\netcoreapp3.1\SampleProject.Data.pdb
+D:\IKS_Training\IKS_Git\Rushikesh-Telsinge\SampleTeacher\SampleProject.Data\bin\Debug\netcoreapp3.1\SampleProject.Entity.dll
+D:\IKS_Training\IKS_Git\Rushikesh-Telsinge\SampleTeacher\SampleProject.Data\bin\Debug\netcoreapp3.1\SampleProject.Entity.pdb
+D:\IKS_Training\IKS_Git\Rushikesh-Telsinge\SampleTeacher\SampleProject.Data\obj\Debug\netcoreapp3.1\SampleProject.Data.csproj.AssemblyReference.cache
+D:\IKS_Training\IKS_Git\Rushikesh-Telsinge\SampleTeacher\SampleProject.Data\obj\Debug\netcoreapp3.1\SampleProject.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\IKS_Training\IKS_Git\Rushikesh-Telsinge\SampleTeacher\SampleProject.Data\obj\Debug\netcoreapp3.1\SampleProject.Data.AssemblyInfoInputs.cache
+D:\IKS_Training\IKS_Git\Rushikesh-Telsinge\SampleTeacher\SampleProject.Data\obj\Debug\netcoreapp3.1\SampleProject.Data.AssemblyInfo.cs
+D:\IKS_Training\IKS_Git\Rushikesh-Telsinge\SampleTeacher\SampleProject.Data\obj\Debug\netcoreapp3.1\SampleProject.Data.csproj.CoreCompileInputs.cache
+D:\IKS_Training\IKS_Git\Rushikesh-Telsinge\SampleTeacher\SampleProject.Data\obj\Debug\netcoreapp3.1\SampleProject.Data.csproj.CopyComplete
+D:\IKS_Training\IKS_Git\Rushikesh-Telsinge\SampleTeacher\SampleProject.Data\obj\Debug\netcoreapp3.1\SampleProject.Data.dll
+D:\IKS_Training\IKS_Git\Rushikesh-Telsinge\SampleTeacher\SampleProject.Data\obj\Debug\netcoreapp3.1\SampleProject.Data.pdb
+D:\IKS_Training\IKS_Git\Rushikesh-Telsinge\SampleTeacher\SampleProject.Data\obj\Debug\netcoreapp3.1\SampleProject.Data.genruntimeconfig.cache

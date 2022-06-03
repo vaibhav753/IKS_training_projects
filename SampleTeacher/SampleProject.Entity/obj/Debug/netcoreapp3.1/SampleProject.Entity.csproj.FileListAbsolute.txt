@@ -1,0 +1,10 @@
+D:\IKS_Training\IKS_Git\Rushikesh-Telsinge\SampleTeacher\SampleProject.Entity\bin\Debug\netcoreapp3.1\SampleProject.Entity.deps.json
+D:\IKS_Training\IKS_Git\Rushikesh-Telsinge\SampleTeacher\SampleProject.Entity\bin\Debug\netcoreapp3.1\SampleProject.Entity.dll
+D:\IKS_Training\IKS_Git\Rushikesh-Telsinge\SampleTeacher\SampleProject.Entity\bin\Debug\netcoreapp3.1\SampleProject.Entity.pdb
+D:\IKS_Training\IKS_Git\Rushikesh-Telsinge\SampleTeacher\SampleProject.Entity\obj\Debug\netcoreapp3.1\SampleProject.Entity.csproj.AssemblyReference.cache
+D:\IKS_Training\IKS_Git\Rushikesh-Telsinge\SampleTeacher\SampleProject.Entity\obj\Debug\netcoreapp3.1\SampleProject.Entity.GeneratedMSBuildEditorConfig.editorconfig
+D:\IKS_Training\IKS_Git\Rushikesh-Telsinge\SampleTeacher\SampleProject.Entity\obj\Debug\netcoreapp3.1\SampleProject.Entity.AssemblyInfoInputs.cache
+D:\IKS_Training\IKS_Git\Rushikesh-Telsinge\SampleTeacher\SampleProject.Entity\obj\Debug\netcoreapp3.1\SampleProject.Entity.AssemblyInfo.cs
+D:\IKS_Training\IKS_Git\Rushikesh-Telsinge\SampleTeacher\SampleProject.Entity\obj\Debug\netcoreapp3.1\SampleProject.Entity.csproj.CoreCompileInputs.cache
+D:\IKS_Training\IKS_Git\Rushikesh-Telsinge\SampleTeacher\SampleProject.Entity\obj\Debug\netcoreapp3.1\SampleProject.Entity.dll
+D:\IKS_Training\IKS_Git\Rushikesh-Telsinge\SampleTeacher\SampleProject.Entity\obj\Debug\netcoreapp3.1\SampleProject.Entity.pdb
